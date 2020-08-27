@@ -1,5 +1,7 @@
 # Simple Frontend Starter Kit
 
+This app for frontend development.
+
 ## Start project
 
 ### 1 Clone repository
@@ -18,14 +20,26 @@ npm install
 ### 3 Start template
 
 ```
-npm start
+npm run start
 http://localhost:2020 
 ```
 
-### 4 Building project
+### Building project
 
 ```
-npm build
+npm run build
+```
+
+### Deploy building project in GitHub Pages
+
+```
+npm run github:deploy
+```
+
+### Building and deploy project in GitHub Pages
+
+```
+npm run github:build:deploy
 ```
 
 ## File and folder structure
@@ -51,5 +65,4 @@ npm build
 
 ## Todo
 
-* Add GitHub page build
 * Add css autoprefixer
