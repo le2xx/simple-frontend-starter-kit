@@ -142,7 +142,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _mai
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n  <head>\\n    <meta charset=\\\"UTF-8\\\">\\n    <title>Simple frontend starter kit</title>\\n    <meta name=\\\"viewport\\\" content=\\\"initial-scale=1.0, width=device-width\\\">\\n    <link rel=\\\"shortcut icon\\\" href=\\\"assets/favicon.ico\\\" type=\\\"image/x-icon\\\">\\n    <base href=\\\"\\\">\\n  </head>\\n  <body>\\n    <div class=\\\"app\\\">\\n      <h1 class=\\\"title\\\">App is started!</h1>\\n      <img class=\\\"usd\\\" src=\\\"assets/images/usd1.jpg\\\" alt=\\\"usd\\\">\\n    </div>\\n  </body>\\n</html>\\n\");\n\n//# sourceURL=webpack:///./src/index.html?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"<!DOCTYPE html>\\n<html lang=\\\"en\\\">\\n  <head>\\n    <meta charset=\\\"UTF-8\\\">\\n    <title>Simple frontend starter kit</title>\\n    <meta name=\\\"viewport\\\" content=\\\"initial-scale=1.0, width=device-width\\\">\\n    <link rel=\\\"shortcut icon\\\" href=\\\"assets/favicon.ico\\\" type=\\\"image/x-icon\\\">\\n  </head>\\n  <body>\\n    <div class=\\\"app\\\">\\n      <h1 class=\\\"title\\\">App is started!</h1>\\n      <img class=\\\"usd\\\" src=\\\"assets/images/usd1.jpg\\\" alt=\\\"usd\\\">\\n    </div>\\n  </body>\\n</html>\\n\");\n\n//# sourceURL=webpack:///./src/index.html?");
 
 /***/ }),
 
